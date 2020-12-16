@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="final" targetName="dic" />
+      <config projectName="final" targetName="tree" />
+      <config projectName="final" targetName="ex1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c064af8-ce2b-4d5e-b278-a83136edd1c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1fc5eV0ScDh7SDaI4l99BP1uEwG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+  </component>
+  <component name="RunManager" selected="CMake Application.ex1">
+    <configuration name="dic" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="final" TARGET_NAME="dic" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="final" RUN_TARGET_NAME="dic">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="final" TARGET_NAME="ex1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="final" RUN_TARGET_NAME="ex1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="final" TARGET_NAME="tree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="final" RUN_TARGET_NAME="tree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.dic" />
+      <item itemvalue="CMake Application.ex1" />
+      <item itemvalue="CMake Application.tree" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c064af8-ce2b-4d5e-b278-a83136edd1c4" name="Default Changelist" comment="" />
+      <created>1596504637230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596504637230</updated>
+      <workItem from="1596504638608" duration="97000" />
+      <workItem from="1596504738738" duration="28000" />
+      <workItem from="1596504790364" duration="4540000" />
+      <workItem from="1596512818521" duration="310000" />
+      <workItem from="1596979650360" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596505042992">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1596505042992" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1596512530003">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/-1048.23.1048.747/0.23.1440.877@0.23.1440.877" timestamp="1596512530003" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1596512530002">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.center/-1048.23.1048.747/0.23.1440.877@0.23.1440.877" timestamp="1596512530002" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1596512530001">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.left/-1048.23.1048.747/0.23.1440.877@0.23.1440.877" timestamp="1596512530001" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1596512530003">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.right/-1048.23.1048.747/0.23.1440.877@0.23.1440.877" timestamp="1596512530003" />
+    <state x="385" y="211" key="run.anything.popup" timestamp="1596504818653">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="211" key="run.anything.popup/0.23.1440.877@0.23.1440.877" timestamp="1596504818653" />
+  </component>
+</project>

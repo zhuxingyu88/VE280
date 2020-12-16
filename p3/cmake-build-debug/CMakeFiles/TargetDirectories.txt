@@ -1,0 +1,5 @@
+C:/Users/17432/CLionProjects/ve280/p3/cmake-build-debug/CMakeFiles/handtest.dir
+C:/Users/17432/CLionProjects/ve280/p3/cmake-build-debug/CMakeFiles/decktest.dir
+C:/Users/17432/CLionProjects/ve280/p3/cmake-build-debug/CMakeFiles/p3.dir
+C:/Users/17432/CLionProjects/ve280/p3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/17432/CLionProjects/ve280/p3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/17432/CLionProjects/ve280/p3/blackjack.cpp
+iostream
+-
+string
+-
+player.h
+C:/Users/17432/CLionProjects/ve280/p3/player.h
+deck.h
+C:/Users/17432/CLionProjects/ve280/p3/deck.h
+rand.h
+C:/Users/17432/CLionProjects/ve280/p3/rand.h
+
+C:/Users/17432/CLionProjects/ve280/p3/card.h
+
+C:/Users/17432/CLionProjects/ve280/p3/deck.h
+card.h
+C:/Users/17432/CLionProjects/ve280/p3/card.h
+
+C:/Users/17432/CLionProjects/ve280/p3/hand.h
+card.h
+C:/Users/17432/CLionProjects/ve280/p3/card.h
+
+C:/Users/17432/CLionProjects/ve280/p3/player.h
+hand.h
+C:/Users/17432/CLionProjects/ve280/p3/hand.h
+
+C:/Users/17432/CLionProjects/ve280/p3/rand.h
+

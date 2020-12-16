@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/17432/CLionProjects/ve280/p2_starters/p2.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+server_type.h
+C:/Users/17432/CLionProjects/ve280/p2_starters/server_type.h
+simulation.h
+C:/Users/17432/CLionProjects/ve280/p2_starters/simulation.h
+
+C:/Users/17432/CLionProjects/ve280/p2_starters/server_type.h
+string
+-
+
+C:/Users/17432/CLionProjects/ve280/p2_starters/simulation.h
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+server_type.h
+C:/Users/17432/CLionProjects/ve280/p2_starters/server_type.h
+

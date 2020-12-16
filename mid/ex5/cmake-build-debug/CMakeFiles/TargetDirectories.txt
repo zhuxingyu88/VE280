@@ -1,0 +1,6 @@
+C:/Users/17432/CLionProjects/ve280/mid/ex2/cmake-build-debug/CMakeFiles/ex1.dir
+C:/Users/17432/CLionProjects/ve280/mid/ex2/cmake-build-debug/CMakeFiles/ex2.dir
+C:/Users/17432/CLionProjects/ve280/mid/ex2/cmake-build-debug/CMakeFiles/ex3.dir
+C:/Users/17432/CLionProjects/ve280/mid/ex2/cmake-build-debug/CMakeFiles/ex4.dir
+C:/Users/17432/CLionProjects/ve280/mid/ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/17432/CLionProjects/ve280/mid/ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

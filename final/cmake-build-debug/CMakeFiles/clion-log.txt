@@ -1,0 +1,6 @@
+"/Users/zhuxingyu/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/202.6397.106/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/zhuxingyu/CLionProjects/ve280/final
+-- Configuring done
+CMake Error: Cannot determine link language for target "dic".
+CMake Error: CMake can not determine linker language for target: dic
+-- Generating done
+CMake Generate step failed.  Build files cannot be regenerated correctly.

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -Wall -Werror -pedantic -Wno-unused-result -Wno-deprecated-declarations -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ex1.dir/ex1.cpp.o  -o ex1 
