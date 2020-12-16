@@ -1,0 +1,6 @@
+/Users/zhuxingyu/CLionProjects/ve280/p4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhuxingyu/CLionProjects/ve280/p4/cmake-build-debug/CMakeFiles/testcase1.dir
+/Users/zhuxingyu/CLionProjects/ve280/p4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhuxingyu/CLionProjects/ve280/p4/cmake-build-debug/CMakeFiles/testcase2.dir
+/Users/zhuxingyu/CLionProjects/ve280/p4/cmake-build-debug/CMakeFiles/compress.dir
+/Users/zhuxingyu/CLionProjects/ve280/p4/cmake-build-debug/CMakeFiles/decompress.dir

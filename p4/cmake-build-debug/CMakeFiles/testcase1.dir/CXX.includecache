@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhuxingyu/CLionProjects/ve280/p4/binaryTree.h
+string
+-
+
+/Users/zhuxingyu/CLionProjects/ve280/p4/test1.cpp
+iostream
+-
+binaryTree.h
+/Users/zhuxingyu/CLionProjects/ve280/p4/binaryTree.h
+

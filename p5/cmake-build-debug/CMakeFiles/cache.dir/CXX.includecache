@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zhuxingyu/CLionProjects/ve280/p5/cache.cpp
+iostream
+-
+sstream
+-
+dlist.h
+/Users/zhuxingyu/CLionProjects/ve280/p5/dlist.h
+
+/Users/zhuxingyu/CLionProjects/ve280/p5/dlist.h
+dlist_impl.h
+/Users/zhuxingyu/CLionProjects/ve280/p5/dlist_impl.h
+
+/Users/zhuxingyu/CLionProjects/ve280/p5/dlist_impl.h
+dlist.h
+/Users/zhuxingyu/CLionProjects/ve280/p5/dlist.h
+
